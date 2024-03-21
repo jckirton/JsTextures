@@ -1,0 +1,5 @@
+- Name: JsTextues
+  Version: 1.5.0
+  Dependencies:
+    - Name: Everest
+      Version: 1.1951.0
