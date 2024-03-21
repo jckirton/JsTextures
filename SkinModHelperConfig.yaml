@@ -1,0 +1,14 @@
+- SkinName: JsTextures
+
+  # ---Player skin---
+  # Player_List: [true/false]
+  # Silhouette_List: [true/false]
+
+  # Character_ID: [new Player ID]
+  # hashSeed: [SkinName]
+
+  # OtherSprite_Path: [a path]
+
+  # ---General skin---
+  General_List: true
+  OtherSprite_ExPath: SouthR6/JsTextures

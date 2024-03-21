@@ -1,0 +1,2 @@
+SkinModHelper_ExSprite__JsTextures= J's Textures
+SkinModHelper_anySprite__JsTextures= J's Textures

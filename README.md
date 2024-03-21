@@ -1,6 +1,8 @@
 # J's Textures
 
-A Celeste texture mod I made, and actually one of my first Celeste mods.
+A Celeste texture mod I made, and actually one of my first Celeste mods.<br>
+This is the `dev` branch.<br>
+**_LIKELY UNSTABLE OR NONFUNCTIONAL_**
 
 - [Description](#description)
 - [Installation](#installation)
