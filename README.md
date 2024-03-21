@@ -14,7 +14,7 @@ This is the Celeste texture mod I made, which can be found on GameBanana [here](
 
 ## Installation
 
-You can download the mod from the [GameBanana page](https://gamebanana.com/mods/251782), or though [Olympus](https://everest.github.io) itself.
+You can download the mod from the [GameBanana page](https://gamebanana.com/mods/251782), or though [Olympus](https://everest.github.io).
 
 ## Branches
 
